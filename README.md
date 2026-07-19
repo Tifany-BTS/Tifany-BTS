@@ -23,5 +23,5 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 <table>
   <tr>
     <td>
-•Full stack Developer
-•Diseño grafico digital
+ <p>•Full stack Developer</p>
+ <p>•Diseño grafico digital</p>
