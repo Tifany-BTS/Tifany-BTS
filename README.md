@@ -26,3 +26,6 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
     <td>
  <p>•Full stack Developer</p>
  <p>•Diseño grafico digital</p>
+# Lenguajes:
+<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
