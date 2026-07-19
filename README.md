@@ -3,7 +3,7 @@
 </div>
 
 ###
-# Hi, soy Tifany. 𓇼 ִ ۫ ⭒𓆉
+< h1 align="center"><b># Hi, soy Tifany. 𓇼 ִ ۫ ⭒𓆉
 <table>
   <tr>
     <td>
@@ -11,7 +11,7 @@
 
   </td>
     <td>
-         <img align=“right” src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="210" alt="Anime GIF">
+         <img align="right" src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="210" alt="Anime GIF">
     </td>
   </tr>
 </table>
