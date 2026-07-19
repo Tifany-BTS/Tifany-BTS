@@ -11,7 +11,7 @@
 
   </td>
     <td>
-      <img src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="210" alt="Anime GIF">
+         <img align=“right“ src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="210" alt="Anime GIF">
     </td>
   </tr>
 </table>
