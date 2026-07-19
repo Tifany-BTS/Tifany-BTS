@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1 align="center">Hi, soy Tifany. 𓇼 ִ ۫ ⭒𓆉</h1>
+<h1 align="center">Hola, soy Tifany. 𓇼 ִ ۫ ⭒𓆉</h1>
 
 <table>
   <tr>
