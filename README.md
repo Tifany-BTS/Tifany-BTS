@@ -45,7 +45,7 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="Visual Studio Code" />
   <img width="8" />
-  <img src="https://play-lh.googleusercontent.com/Hpg2QSY4gaJttTyEUkJpucv7pQezZXd-A9ZrkTNxGucIMQjBAEvGVpgkHfy8nrYPGg" height="30" alt="Programiz" />
+  <img src="https://play-lh.googleusercontent.com/Hpg2QSY4gaJttTyEUkJpucv7pQezZXd-A9ZrkTNxGucIMQjBAEvGVpgkHfy8nrYPGg" height="60" alt="Programiz" />
 </p>
 
 
