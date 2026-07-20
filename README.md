@@ -42,3 +42,10 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 
 
 # Programas de uso:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="Visual Studio Code" />
+  <img width="8" />
+  <img src="TU_LINK_DEL_LOGO_DE_PROGRAMIZ" height="30" alt="Programiz" />
+</p>
+
+
