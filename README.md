@@ -34,7 +34,7 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 
 
   
-# Lenguajes:
+# 📚 Lenguajes:
 
    <table>
   <tr>
