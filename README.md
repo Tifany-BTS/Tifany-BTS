@@ -25,7 +25,7 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
  <p>•Full stack Developer</p>
  <p>•Diseño grafico digital</p>
 
- # Aprendizaje actual:
+ # 🎓 Aprendizaje actual:
   Actualmente estoy aprendiendo inglés en un nivel B1, con el objetivo de mejorar mi comunicación y comprender mejor el idioma para utilizarlo tanto en mi vida diaria como en mi desarrollo profesional. Además, estoy estudiando Full Stack develop, aprendiendo tecnologías para crear páginas y aplicaciones web.
   
   <img src="https://media.tenor.com/zFYlcnyDzhkAAAAd/student-studying.gif" width="210" alt=" student GIF">
