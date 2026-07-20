@@ -49,7 +49,7 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 </table>
 
 
-# Programas de uso:
+# 🤖 Programas de uso:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="90" alt="Visual Studio Code" />
   <img width="8" />
