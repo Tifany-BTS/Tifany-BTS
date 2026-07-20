@@ -47,5 +47,5 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
   <img width="8" />
   <img src="https://play-lh.googleusercontent.com/Hpg2QSY4gaJttTyEUkJpucv7pQezZXd-A9ZrkTNxGucIMQjBAEvGVpgkHfy8nrYPGg" height="60" alt="Programiz" />
 </p>
-
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/git-13.png" height="60" alt="Programiz" />
 
