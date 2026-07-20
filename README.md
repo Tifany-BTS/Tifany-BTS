@@ -32,7 +32,6 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
   
   También dedico parte de mi tiempo a aprender arte de forma autodidacta, practicando dibujo y desarrollando mi creatividad. Me gusta aprender de manera independiente mediante cursos, videos, libros y proyectos personales, ya que considero que la constancia y la práctica son fundamentales para seguir mejorando en cada una de estas áreas.
 
-  }
 
   
 # Lenguajes:
