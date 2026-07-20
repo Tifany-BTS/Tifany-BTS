@@ -28,7 +28,8 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
  <p>•Diseño grafico digital</p>
 
 # Lenguajes:
-     <table>
+
+   <table>
   <tr>
     <td> 
 <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
