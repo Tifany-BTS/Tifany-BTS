@@ -33,10 +33,8 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
   <tr>
     <td> 
 
-  <div data-importer="techs" align="center">
-<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <p align="center"> <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  </div>
+  <img width="12"> </p>
