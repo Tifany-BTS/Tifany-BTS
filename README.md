@@ -50,10 +50,10 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 
 
 # 🌐 Programas de uso:
-<p align="left"><img src="https://skillicons.dev/icons?i=vscode" height="90" alt="Visual Studio Code" /></h1>
-  <img width="8" />
-  <img src="https://play-lh.googleusercontent.com/Hpg2QSY4gaJttTyEUkJpucv7pQezZXd-A9ZrkTNxGucIMQjBAEvGVpgkHfy8nrYPGg" height="60" alt="Programiz" />
-</p><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/git-13.png" height="60" alt="Programiz" />
+<div data-importer="techs" align="center"><img src="https://skillicons.dev/icons?i=vscode" height="90" alt="Visual Studio Code" />
+<img width="8" />
+<img src="https://play-lh.googleusercontent.com/Hpg2QSY4gaJttTyEUkJpucv7pQezZXd-A9ZrkTNxGucIMQjBAEvGVpgkHfy8nrYPGg" height="60" alt="Programiz" />
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/git-13.png" height="60" alt="Programiz" /></div>
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
