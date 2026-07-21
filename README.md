@@ -57,6 +57,9 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
 </p>
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/git-13.png" height="60" alt="Programiz" />
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div> 
 
 
 
