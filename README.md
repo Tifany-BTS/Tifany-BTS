@@ -40,8 +40,8 @@ Me entusiasma aprender nuevas tecnologías, desarrollar mis habilidades y conver
   <tr>
     <td> 
 
- <div data-importer="techs" align="center"><img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo" /></div> 
+ <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo" />
 </td>
  </tr>
 </table>
